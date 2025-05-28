@@ -77,4 +77,4 @@ src/
 
 ## License
 
-MIT
+MIT @Srijana
